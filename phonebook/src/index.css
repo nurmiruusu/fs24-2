@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+}
+
+h2 {
+    color: olivedrab;
+    font-style: bold;
+  }
+
+  form {
+    font-weight: bold;
+  }
+  
+  
+  .notification {
+    font-style: italic;
+    color: black;
+  }
+
+  button {
+    border-color:black;
+    background-color: lightgrey;
+  }
